@@ -1,6 +1,5 @@
 # Translation Coverage 
 (Automatically generated. DO NOT edit.)
-
 * [/](/) 310888/113971 (26%)
   * [/SUMMARY.md](/SUMMARY.md) 2825/1985 (41%)
   * [/README.md](/README.md) 268/1643 (85%)
@@ -80,4 +79,5 @@
       * [/g3doc/get_started/os_setup.md](/g3doc/get_started/os_setup.md) 14511/20258 (58%)
       * [/g3doc/get_started/index.md](/g3doc/get_started/index.md) 1214/1838 (60%)
       * [/g3doc/get_started/basic_usage.md](/g3doc/get_started/basic_usage.md) 4215/6608 (61%)
-()
+---
+Powered by [Trnslation Coverage](https://github.com/hunkim/translation_coverage)
