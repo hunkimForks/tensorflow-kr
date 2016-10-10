@@ -1,5 +1,6 @@
 # Translation Coverage 
 (Automatically generated. DO NOT edit.)
+
 * [/](/) 310888/113971 (26%)
   * [/SUMMARY.md](/SUMMARY.md) 2825/1985 (41%)
   * [/README.md](/README.md) 268/1643 (85%)
